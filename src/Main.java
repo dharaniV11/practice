@@ -27,6 +27,7 @@ public class Main {
         number.add(new Student(12,"Bharath"));
         number.add(new Student(15,"sarath"));
         number.add(new Student(17,"anbumani"));
+        number.add(new Student(17,"Dharani"));
         number.add(new Student(19,"ragul"));
         number.add(new Student(21,"karthi"));
         Collections.sort(number, comparator);
